@@ -17,8 +17,8 @@
 
 ### 🚩 Featured Projects
 
-- 🔹 **[jenkins-mcp](#)** – Custom Jenkins Multi-Cloud Pipeline solutions  
-- 🔹 **[Static Website Hosting on S3](#)** – Fast, scalable, and serverless deployments  
+- 🔹 **[jenkins-mcp](https://github.com/Worwae77/jenkins-mcp)** – Custom Jenkins Multi-Cloud Pipeline solutions  
+- 🔹 **[Static Website Hosting on S3](https://github.com/Worwae77/static-s3)** – Fast, scalable, and serverless deployments  
 
 ---
 
